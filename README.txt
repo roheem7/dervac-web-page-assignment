@@ -1,0 +1,97 @@
+ 50 command line commands for Linux OS! 
+- ls - list directory contents
+- pwd - print working directory
+- cd - change directory
+- mkdir - make directory
+- rmdir - remove directory
+- mv - move file or directory
+- cp - copy file or directory
+- rm - remove file or directory
+- touch - create or update a file
+- grep - search for a pattern in files
+- cat - display the contents of a file
+- chmod - change file permissions
+- chown - change owner of a file
+- top - display system status
+- ps - list running processes
+- du - report disk space usage
+- sort - sort lines of text
+- wc - count the number of lines, words, or characters in a file
+- head - display the first part of a file
+- tail - display the last part of a file
+- cut - cut text from a file and print it
+- join - join lines of two files based on a common field
+- sed - stream editor for modifying text files
+- awk - pattern-directed scanning and processing language
+- tr - translate or delete characters
+- split - split a file into multiple files
+- grep - find and print lines matching a pattern
+- diff - display the differences between two files
+- patch - apply a diff file to an original
+- tar - create and manage archives
+- gzip - compress or decompress files
+- unzip - unzip a file
+- bc - arithmetic calculator
+- dc - desk calculator
+- cmp - compare two files
+- diff3 - three-way file comparison
+- sort - sort text files
+- paste - merge lines of two files
+- nl - number the lines of a file
+- strings - print the printable strings in a file
+- rev - reverse lines of a file
+- fmt - reformat a text file
+- fmtutil - configure fmt command
+- tarinfo - list archive contents
+- dd - copy and convert a file
+- ln - create links between files
+- ddrescue - copy data from a damaged file
+- fsck - file system consistency check and repair
+- mkswap - create a swap area on a file or partition
+- swapon - turn a file or partition into a swap area
+- swaplabel - set or change the label of a swap area
+- mount - mount a file system
+
+
+50 command lines for Windows:
+- help - displays help about a command
+- cls - clear the screen
+- copy - copy one or more files to another location
+- xcopy - copy files and directories, with extra options
+- del - delete one or more files
+- mkdir - make a new directory
+- md - same as mkdir
+- rmdir - remove an empty directory
+- rd - same as rmdir
+- mdinfo - view file system information
+- vol - displays the volume label and serial number
+- dir - list the contents of a directory
+- cd - change the current directory
+- for - performs a command for each file
+- if - execute a command if a condition is true
+- while - execute a command while a condition is true
+- rundll32 - runs a DLL as an application
+- vssadmin - creates shadow copies
+- reg - displays or modifies the contents of the registry
+- sfc - scans for corrupt files
+- taskkill - kill a running task
+- wmic - queries WMI for a specific piece of information
+- pause - pause the execution of a batch file
+- exit - terminates a batch file
+- ping - test the reachability of a host
+- tracert - traces the path of packets to a network host
+- net - network related commands
+- nslookup - queries DNS servers
+- powercfg - control power options and settings
+- control - starts control panel
+- systeminfo - displays system information
+- certutil - displays or manages certificates
+- dsget - displays information about directory objects
+- dsmod - modifies directory objects
+- icacls - displays or changes access control lists
+- fsutil - file system utility
+- netstat - displays network connections
+- ipconfig - displays the network configuration
+- netsh - run various network commands
+- sc - manage services and service configurations
+- sfc - scans for and restores corrupted files
